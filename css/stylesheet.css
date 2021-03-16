@@ -14,3 +14,9 @@ background-color: blueviolet;
 padding: 10px;
 margin: 50px;
 }
+
+
+h2 {font-style: italic;}
+
+a:link {text-decoration:none;color:burlywood;}
+a:hover {text-decoration:underline;color: aliceblue;}
